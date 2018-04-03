@@ -1,0 +1,34 @@
+body {
+  background-color: #f1f1f1;
+  text-align: center;
+  margin: 20%;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  color: rgb(241, 47, 80);
+  font-size: 60px;
+}
+
+h2 {
+  font-family: 'Oxygen', sans-serif;
+  color: rgb(37, 37, 37);
+}
+
+a {
+  color: #9bc5d5;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #ffdf91;
+}
+
+.fa-hand-point-down {
+  color: #ffdf91;
+}
+
+.fa-heart {
+  color: rgb(241, 47, 80);
+}
